@@ -1,0 +1,10 @@
+I find that the first couple chapters were pretty easy to remember as a big portion of it was introducing you to concepts that would be expanded upon later. Chapter 4 is where I started running into things that I know that I will need to reference later. For instance, below:
+
+Table 4-2: The most common git log parameters
+I need to make a copy of this table that I can reference later
+
+I should also reference chapter 6-1 for guidance when I feel like I am not making the best commits. I am relatively uncertaion about the commit messages I made when debugging some issues I was experiencing with my working directory and VIM
+
+Chapter 5 is a good place to look for info on navigating Git versions - BUT DO NOT CHANGE THE PAST!!! Github is incapable of traveling the 
+neccessary speed of 80mph for time travel
+
